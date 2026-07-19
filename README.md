@@ -15,7 +15,7 @@
 # 📊 Dashboard Preview
 
 
-![Dashboard Preview](
+![Dashboard Preview](dashboard.png)
 
 ---
 
@@ -69,7 +69,7 @@ The project follows a **Star Schema** for optimized reporting and faster DAX cal
 
 ### Relationship Diagram
 
-![Data Model](Images/Data%20Model.png)
+![Data Model](models.png)
 
 ---
 
@@ -188,13 +188,13 @@ These recommendations are fully dynamic and respond to slicer selections.
 
 ## Sales Dashboard
 
-![Sales Dashboard](Images/Dashboard.png)
+![Sales Dashboard](dashboard,png)
 
 ---
 
 ## Business Insights
 
-![Business Insights](Images/Business%20Insights.png)
+![Business Insights](insights.png)
 
 ---
 
