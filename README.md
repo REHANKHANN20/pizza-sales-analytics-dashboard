@@ -188,7 +188,7 @@ These recommendations are fully dynamic and respond to slicer selections.
 
 ## Sales Dashboard
 
-![Sales Dashboard](dashboard,png)
+![Sales Dashboard](dashboard.png)
 
 ---
 
