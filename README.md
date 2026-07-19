@@ -14,9 +14,8 @@
 
 # 📊 Dashboard Preview
 
-> *(Replace this image after uploading your dashboard screenshot.)*
 
-![Dashboard Preview](Images/Dashboard%20Preview.png)
+![Dashboard Preview](
 
 ---
 
