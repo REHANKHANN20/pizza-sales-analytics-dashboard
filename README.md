@@ -15,7 +15,7 @@
 # 📊 Dashboard Preview
 
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Images/dashboard.png)
 
 ---
 
@@ -69,7 +69,7 @@ The project follows a **Star Schema** for optimized reporting and faster DAX cal
 
 ### Relationship Diagram
 
-![Data Model](models.png)
+![Data Model](Images/models.png)
 
 ---
 
@@ -188,13 +188,13 @@ These recommendations are fully dynamic and respond to slicer selections.
 
 ## Sales Dashboard
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Images/dashboard.png)
 
 ---
 
 ## Business Insights
 
-![Business Insights](insights.png)
+![Business Insights](Images/insights.png)
 
 ---
 
@@ -243,7 +243,6 @@ pizza-sales-analytics-dashboard
 │   └── pizza_types.csv
 │
 ├── Images
-│   ├── Dashboard Preview.png
 │   ├── Dashboard.png
 │   ├── Business Insights.png
 │   └── Data Model.png
